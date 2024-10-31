@@ -1,4 +1,4 @@
-# CMPSC-311(Assignments 1-5)
+# CMPSC 311 (Assignments 1-5)
 
 # Introduction:
 The code is an implementation of a client-server system designed for a JBOD (Just a Bunch of Disks) storage system. The client connects to the server and sends operations to be performed on the JBOD, such as reading or writing data blocks. The code is written in C and utilizes various libraries and system calls. This report aims to explain the flow of the code and how it performs its functions.
